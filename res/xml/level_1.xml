@@ -1,0 +1,48 @@
+<xml>
+	<title>
+		<name value="Level 1" />
+		<difficulty value="Easy" />
+	</title>
+	<friendly>
+		<ship>
+			<type value="scout" />
+			<attributes x="40%" y="45%" angle="0" />
+		</ship>
+		<ship>
+			<type value="scout" />
+			<attributes x="50%" y="45%" angle="0" />
+		</ship>
+		<ship>
+			<type value="starbase" />
+			<attributes x="60%" y="80%" angle="0" />
+		</ship>
+	</friendly>
+	<queue type="text" extra="Welcome to Space Strategy!" from_x="10%" from_y="8%" duration="5000" />
+	<queue type="text" extra="Click any of the ships to activate them." from_x="10%" from_y="8%" duration="5000" />
+	<queue type="text" extra="When active you can draw waypoints for ships to move." from_x="10%" from_y="8%" duration="5000" />
+	<queue type="text" extra="Protect your ships and avoid the asteroids." from_x="10%" from_y="8%" duration="5000" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="2000" />
+	<queue type="text" extra="Wave 1" from_x="10%" from_y="8%" duration="2000" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="40%" to_x="110%" to_y="40%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="50%" to_x="110%" to_y="50%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="60%" to_x="110%" to_y="60%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="5000" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="10%" to_x="-10%" to_y="10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="30%" to_x="-10%" to_y="30%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="50%" to_x="-10%" to_y="50%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="5000" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="50%" to_x="-10%" to_y="50%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="10%" to_x="-10%" to_y="10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="90%" to_x="-10%" to_y="90%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="15000" />
+	<queue type="text" extra="Wave 2" from_x="10%" from_y="8%" duration="2000" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="40%" to_x="-10%" to_y="40%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="50%" to_x="-10%" to_y="50%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="60%" to_x="-10%" to_y="60%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="2000" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="10%" to_x="110%" to_y="10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="30%" to_x="110%" to_y="25%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="70%" to_x="110%" to_y="75%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="90%" to_x="110%" to_y="90%" joined="true" />
+	<queue type="end" extra="Level clear | GameOver" from_x="10%" from_y="8%" duration="5000" />
+</xml>

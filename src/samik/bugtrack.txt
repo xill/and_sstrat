@@ -1,0 +1,6 @@
+-BUG/ISSUE TRACK for samik library-
+
+Pre-alpha:
+
+1) 30.10.2011 - Status: unresolved - possible particle emission bug. Particles seem to pop out of nowhere slightly after the emitter dies.
+2) 28.11.2011 - Status: unresolved - OpenGL ES 1.1 blending results in a crash with the current emulator. seemingly fine on all phones.

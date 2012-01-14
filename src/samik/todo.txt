@@ -1,0 +1,8 @@
+-TODO listing for samik library-
+
+Pre-alpha:
+
+1) 30.10.2011 - Status: Completed: 1.11.2011 - Integrate latest library .java files from the flash drive.
+2) 1.11.2011 - Status: not started - Improve matrix wrapper classes. add basic mathematic functions.
+3) 6.11.2011 - Status: Completed: 6.11.2011 - universal Quad rendering object for android libraries.
+4) 9.11.2011 - Status: in progress - OpenGL ES 1.1 supported gl implementations.

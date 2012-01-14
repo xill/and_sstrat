@@ -1,0 +1,8 @@
+-BUG/ISSUE TRACK for Space Strategy-
+
+Pre-alpha:
+
+1) 30.10.2011 - Status: unresolved - Ship death after effect size scaling seems to be bit off.
+2) 30.10.2011 - Status: unresolved - Ship death after effect seems to draw in a completely off location during starbase deaths.
+3) 16.11.2011 - Status: unresolved - Phone state changes like home button etc. break some of the game components including: audio, friendly ships and cause some unprecedented slowdown.
+4) 28.11.2011 - Status: unresolved - OpenGL ES 1.1 blending results in a crash with the current emulator. seemingly fine on all phones.

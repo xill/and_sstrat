@@ -1,0 +1,17 @@
+-TODO listing for Space Strategy-
+
+Pre-alpha:
+
+1) 30.10.2011 - Status: Completed: 6.11.2011 - corrective pathing after a hit. enemy should head toward the impact direction not turn back toward the original direction.
+2) 1.11.2011 - Status: ongoing - integrate atlas generator file parsing and texture usage for improved opengl performance.
+3) 1.11.2011 - Status: not started - add enemy object to enemy object collisions.
+4) 1.11.2011 - Status: Completed: 5.11.2011 - make collision checks less cpu heavy with a wider berth.
+5) 5.11.2011 - Status: not started - reduce the amount of shiptemplate list iterations.
+6) 5.11.2011 - Status: not started - wave directional indicator.
+7) 6.11.2011 - Status: not started - setup to check for outside of view delete.
+8) 6.11.2011 - Status: Completed: 9.11.2011 - change astroid to die upon viewport exit not by having no waypoints.
+9) 6.11.2011 - Status: Completed: 6.11.2011 - implement a background image.
+10) 7.11.2011 - Status: Completed: 22.11.2011 - multilevel implementation.
+11) 9.11.2011 - Status: Completed: 16.11.2011 - implement audio system and background music.
+12) 9.11.2011 - Status: Completed: 16.11.2011 - GL11 support for VBO implementations.
+13) 29.11.2011 - Status: not started - volume controls for start menu and during gameplay.

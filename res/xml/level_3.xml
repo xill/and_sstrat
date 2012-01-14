@@ -1,0 +1,85 @@
+<xml>
+	<title>
+		<name value="Level 3" />
+		<difficulty value="Hard" />
+	</title>
+	<friendly>
+		<ship>
+			<type value="starbase" />
+			<attributes x="60%" y="80%" angle="0" />
+		</ship>
+	</friendly>
+	<queue type="text" extra="Welcome to Space Strategy!" from_x="10%" from_y="8%" duration="5000" />
+	<queue type="text" extra="Click any of the ships to activate them." from_x="10%" from_y="8%" duration="5000" />
+	<queue type="text" extra="When active you can draw waypoints for ships to move." from_x="10%" from_y="8%" duration="5000" />
+	<queue type="text" extra="Protect your ships and avoid the asteroids." from_x="10%" from_y="8%" duration="5000" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="2000" />
+	<queue type="text" extra="Wave 1" from_x="10%" from_y="8%" duration="2000" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="40%" to_x="110%" to_y="40%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="50%" to_x="110%" to_y="50%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="60%" to_x="110%" to_y="60%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="5000" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="10%" to_x="-10%" to_y="10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="30%" to_x="-10%" to_y="30%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="50%" to_x="-10%" to_y="50%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="5000" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="50%" to_x="-10%" to_y="50%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="10%" to_x="-10%" to_y="10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="90%" to_x="-10%" to_y="90%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="15000" />
+	<queue type="text" extra="Wave 2" from_x="10%" from_y="8%" duration="2000" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="40%" to_x="-10%" to_y="40%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="50%" to_x="-10%" to_y="50%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="60%" to_x="-10%" to_y="60%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="2000" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="10%" to_x="110%" to_y="10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="30%" to_x="110%" to_y="25%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="70%" to_x="110%" to_y="75%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="90%" to_x="110%" to_y="90%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="5000" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="-10%" to_x="110%" to_y="110%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="-25%" to_x="110%" to_y="95%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="-40%" to_x="110%" to_y="80%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="-10%" to_x="110%" to_y="110%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="-25%" to_x="110%" to_y="95%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="-40%" to_x="110%" to_y="80%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="5000" />
+	<queue type="enemy" extra="asteroid" from_x="30%" from_y="110%" to_x="30%" to_y="-10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="50%" from_y="110%" to_x="50%" to_y="-10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="70%" from_y="110%" to_x="70%" to_y="-10%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="5000" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="110%" to_x="30%" to_y="-10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="90%" from_y="110%" to_x="10%" to_y="-10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="70%" from_y="110%" to_x="-10%" to_y="-10%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="15000" />
+	<queue type="text" extra="Wave 3" from_x="10%" from_y="8%" duration="2000" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="-10%" to_x="110%" to_y="110%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="10%" from_y="-10%" to_x="90%" to_y="110%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="30%" from_y="-10%" to_x="70%" to_y="110%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="2000" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="10%" to_x="110%" to_y="10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="30%" to_x="110%" to_y="25%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="70%" to_x="110%" to_y="75%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="90%" to_x="110%" to_y="90%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="15000" />
+	<queue type="text" extra="Wave 3" from_x="10%" from_y="8%" duration="2000" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="-10%" to_x="-10%" to_y="110%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="-25%" to_x="-10%" to_y="95%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="-40%" to_x="-10%" to_y="80%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="-10%" to_x="-10%" to_y="110%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="-25%" to_x="-10%" to_y="95%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="-40%" to_x="-10%" to_y="80%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="10000" />
+	<queue type="enemy" extra="asteroid" from_x="30%" from_y="110%" to_x="30%" to_y="-10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="50%" from_y="110%" to_x="50%" to_y="-10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="70%" from_y="110%" to_x="70%" to_y="-10%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="5000" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="40%" to_x="110%" to_y="40%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="50%" to_x="110%" to_y="50%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="-10%" from_y="60%" to_x="110%" to_y="60%" joined="true" />
+	<queue type="text" extra="" from_x="10%" from_y="8%" duration="5000" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="10%" to_x="-10%" to_y="10%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="30%" to_x="-10%" to_y="30%" joined="true" />
+	<queue type="enemy" extra="asteroid" from_x="110%" from_y="50%" to_x="-10%" to_y="50%" joined="true" />
+	<queue type="end" extra="Level clear | GameOver" from_x="10%" from_y="8%" duration="5000" />
+</xml>
